@@ -1,6 +1,9 @@
 # ai-powered-summarizer
 This is an ai powered article summarizer, with the help of this you can summarize the article and it does it to openai
 
+<a href="https://www.futurepedia.io/tool/sumz-ai?utm_source=sumz-ai_embed" style="width: 250px; height: 54px;" width="250" height="54">
+        <img src="https://www.futurepedia.io/api/image-widget?toolId=3c9cfe1f-dce0-418f-a3cb-3ff85f41c596" alt="Sumz AI | Featured on Futurepedia" style="width: 250px; height: 54px;" width="250" height="54">
+        </a>
 
 ## Screenshots
 
